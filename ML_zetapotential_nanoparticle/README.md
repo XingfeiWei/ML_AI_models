@@ -10,7 +10,7 @@ MD simulation model for zeta-potential calculation.
 </p>
 
 <p align="center">
-<img width="600" alt="ML_correlation_matrix" src="https://github.com/user-attachments/assets/470c3df2-b570-41fd-bcd1-b2488b1fc726" />
+<img width="300" alt="ML_correlation_matrix" src="https://github.com/user-attachments/assets/470c3df2-b570-41fd-bcd1-b2488b1fc726" />
 </p>
 
 <p align="center">
@@ -19,5 +19,5 @@ MD simulation model for zeta-potential calculation.
 
 Results:
 <p align="center">
-<img width="600" alt="ML_ET" src="https://github.com/user-attachments/assets/c05a28ea-d0c3-4a28-ad2a-c812bf777b07" />
+<img width="300" alt="ML_ET" src="https://github.com/user-attachments/assets/c05a28ea-d0c3-4a28-ad2a-c812bf777b07" />
 </p>
