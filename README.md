@@ -9,12 +9,7 @@ Use foundational CNN models for DNA origami nanostructure classification combini
 Project 2:
 Train ML models to predict zeta-potential of nanoparticles combining MD simulation data with experimental data.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ef39f048-7009-4eca-805d-701f387c7fe5" alt="ML_models" width="600">
-</p>
-
-MD simulation model for zeta-potential calculation.
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c2c3fc30-4bf7-4e6c-9f52-70e125d48b40" alt="MDmodel" width="500">
+  <img width="700" alt="ML_MSE" src="https://github.com/user-attachments/assets/89a10969-c756-4c5a-8e09-84fffd776cd0" />
 </p>
 
 Project 3:
