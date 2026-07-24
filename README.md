@@ -14,6 +14,9 @@ Train ML models to predict zeta-potential of nanoparticles combining MD simulati
 
 Project 3:
 Use ML models for polymer thermal conductivity prediction.
+<p align="center">
+  <img width="839" height="351" alt="ML_polymer_TC" src="https://github.com/user-attachments/assets/d5f05620-01eb-4eea-ac7a-2328ccbdafb6" />
+</p>
 
 Project 4:
 Train MCCX a ML/AI model to predict nanoparticle viability to biological cells.
