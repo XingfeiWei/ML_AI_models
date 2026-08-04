@@ -6,3 +6,11 @@ Author & Article Information
 J. Phys. Chem. C (2020) 124 (8): 4483–4488.
 
 https://doi.org/10.1021/acs.jpcc.9b11689
+
+
+
+Kaggle
+NeurIPS - Open Polymer Prediction 2025
+
+https://www.kaggle.com/competitions/neurips-open-polymer-prediction-2025
+
