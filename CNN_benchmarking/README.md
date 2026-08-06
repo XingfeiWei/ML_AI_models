@@ -1,3 +1,6 @@
+<img width="3482" height="2213" alt="Models" src="https://github.com/user-attachments/assets/0878becc-75a3-4b6f-afdf-cd41c90f152d" />
+
+
 The TEMCOIN code is available on github
 
 https://github.com/rxhernandez/TEMCOIN
