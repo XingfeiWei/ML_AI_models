@@ -5,7 +5,7 @@ Xingfei Wei, Qiankun Mo, Chi Chen, Mark Bathe, Rigoberto Hernandez
 
 Cite:
 
-Machine Learning and Deep Learning| June 20, 2025 Open Access
+[JCIM | Machine Learning and Deep Learning| June 20, 2025 Open Access]
 
 Characterizing DNA Origami Nanostructures in TEM Images Using Convolutional Neural Networks
 
