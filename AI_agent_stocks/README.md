@@ -1,4 +1,4 @@
-# AI agent for predicting Stocks.
+# AI agent for predicting Stocks
 
 Run python stock_download.py
 
