@@ -1,4 +1,4 @@
-# AI agent can help do anything for you, including predicting Stock prices.
+# AI agent can help, including Stocks.
 
 Run python stock_download.py
 
