@@ -1,3 +1,5 @@
+<img width="2090" height="1475" alt="amd_prediction_from_meta" src="https://github.com/user-attachments/assets/145c9c81-dd31-4e09-8f77-022dc42ba7dc" />
+
 # AI agent for predicting Stocks
 
 Run python stock_download.py
