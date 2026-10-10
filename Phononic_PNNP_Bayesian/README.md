@@ -1,3 +1,4 @@
+<img width="1477" height="1472" alt="TOC_v3" src="https://github.com/user-attachments/assets/f0348483-ab36-4597-98ff-24bf7996d3f2" />
 Polymer-Linked Nanoparticle Networks Running on Heat Can Act as Computing Devices
 
 Authors
